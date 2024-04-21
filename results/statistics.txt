@@ -1,0 +1,7 @@
+
+16382 feature
+
+900 sample
+
+
+applying autoencoder directly to the data the session often craches
